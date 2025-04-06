@@ -1,3 +1,5 @@
+# Use Python Version 3.12.8 for app development server and production server
+
 import os
 import json
 import time

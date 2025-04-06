@@ -9,7 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 dataset
-
+test_images
 app/test.py
 app/test_2.py
 app/test_3.py
